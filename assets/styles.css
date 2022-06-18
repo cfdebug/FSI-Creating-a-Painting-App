@@ -6,6 +6,11 @@ body {
     float: left;
     width: 10vmin;
 }
+.clear-color {
+    position: relative;
+    top: 650px;
+    right: 95px;
+}
 
 .painting {
     float: left;
